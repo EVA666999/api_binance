@@ -1,0 +1,14 @@
+channels  
+channels-redis  
+websockets  
+binance-connector  
+django
+uvicorn
+psycopg2
+python-dotenv
+djangorestframework
+django-filter
+pytest
+pytest-django
+pytest-asyncio
+daphne
